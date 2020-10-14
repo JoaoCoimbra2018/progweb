@@ -1,0 +1,36 @@
+body {
+    margin: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+table {
+    background-color: rgba(255,255,255,1);
+}
+th {
+    border: 1px solid gray;
+    background-color: rgb(200,200,200);
+}    
+td {
+    border: 1px solid gray;
+    background-color: rgba(255,255,255,1);
+}
+img {
+    margin: 0;
+    padding: 0;
+}    
+input {
+    font-family: Arial, Helvetica, sans-serif;  
+}
+.button {
+    margin-left: 10px;
+    margin-right: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-left: 4px solid rgb(180,180,180);
+    border-right: 4px solid rgb(180,180,180);
+    font-size: 14pt;
+    background-color: rgb(200,200,200);
+}
+textarea {
+    vertical-align: top;
+    font-family: Arial, Helvetica, sans-serif;
+}
